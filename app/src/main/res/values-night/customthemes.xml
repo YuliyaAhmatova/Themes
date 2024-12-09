@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomThemes" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">#FDD8D7</item>
+        <item name="colorPrimaryDark">#FDD8D7</item>
+        <item name="android:statusBarColor">#FDD8D7</item>
+        <item name="android:textColorPrimary">#934649</item>
+        <item name="android:textColorTertiary">#FFFFFF</item>
+        <item name="android:colorButtonNormal">#FDD8D7</item>
+    </style>
+</resources>
